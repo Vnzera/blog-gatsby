@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who spends all day writing and coding on his laptop in the corner of a dark room.
+        Written by <strong>{author}</strong>. A web developer with experience using React, Node, MongoDB and Postgres.
         {` `}
         <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
