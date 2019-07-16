@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. A web developer with experience using React, Node, MongoDB and Postgres.
+        Written by <strong>{author}</strong>. An aspiring full stack JavaScript developer.
         {` `}
         <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
