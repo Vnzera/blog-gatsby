@@ -54,10 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. An aspiring full stack JavaScript developer.
+        Written by <strong>{author}</strong>. A full stack JavaScript developer.
         {` `}
         <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You should follow me on Twitter
         </a>
       </p>
     </div>
