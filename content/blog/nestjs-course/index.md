@@ -1,5 +1,6 @@
 ---
 title: NestJS Course
+description: Free NestJS course on Udemy
 date: 2019-07-14
 ---
 

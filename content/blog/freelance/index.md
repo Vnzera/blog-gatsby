@@ -1,5 +1,6 @@
 ---
 title: Freelance Course
+description: Reasons to consider freelancing and vanlife
 date: 2019-10-05
 ---
 
