@@ -1,0 +1,13 @@
+---
+title: Once in a Lifetime Presidential Candidate
+description: We finally have a real contender who just wants to solve the problems that Americans care about
+date: 2019-12-25
+---
+
+First, a little background on me. I am 29 years old and I have never voted or donated to a political campaign until Andrew Yang. For many Americans like me, the mainstream media is not trustworthy. Politicians are even less reliable because we still face serious problems despite being the richest country in the world. That doesn't happen unless your leadership is incompetent, corrupt or both. This is one of the many reasons Trump was able to win in 2016.
+
+Close to 80% of the population is living paycheck to paycheck despite GDP growth and a "strong" jobs market. These economic metrics don't mean much to the average American and even Trump himself said these metrics are "fake news" and unreliable during his 2016 campaign. The popularity of candidates like Bernie and Yang prove that the establishment is losing control. Now is the time for dormant non voters to wake up and support real change. If not now then when? When 99% of the population is living paycheck to paycheck? When automation wipes out the need for delivery drivers, truck drivers, retail workers and call center jobs?No. We need to act before things get worse.
+
+Why Andrew Yang? He is an outsider and a business man, like Trump, but who is actually successful. His approach to solving America's problem is to prevent them in the first place. This would be accomplished by universal basic income which would decrease bureacracy because you don't need to check a person's income. Everyone gets it. It's funded by a value added tax which has already been implemented in many European countries successfully after they tried a wealth tax which failed to bring in the revenue they were hoping for. The "Freedom Dividend" requires no forms or lengthy application process and it stacks with a few other government assistance progams. It's also opt in so you don't need to take it if you like your current benefits situation.
+
+Yang's data driven approach to problem solving wouldn't be complete without changing the metrics that define succcess in our country. Who cares about GDP or phony unemployment statistics when stress, mental illness, suicide and drug overdoses are increasing? Yang would use metrics that actually reflect American citizen's wellbeing both physically and mentally. You can visit yang2020.com for much more detail and frequently asked questions and concerns on universal basic income and his other policy proposals.
