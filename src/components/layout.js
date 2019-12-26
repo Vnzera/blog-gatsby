@@ -21,8 +21,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              textDecoration: `none`
             }}
             to={`/`}
           >
@@ -41,8 +40,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              textDecoration: `none`
             }}
             to={`/`}
           >
