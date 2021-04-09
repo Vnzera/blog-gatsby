@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. A full stack JavaScript developer.
+        Written by <strong>{author}</strong>. A blogger, YouTuber and front end web developer
         {` `}
         <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
           You should follow me on Twitter
