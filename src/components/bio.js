@@ -56,7 +56,7 @@ const Bio = () => {
       <p>
         Written by <strong>{author}</strong>. A blogger, YouTuber and front end web developer
         {` `}
-        <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
+        <a target="_blank"  rel="noreferrer" href={`https://twitter.com/${social.twitter}`}>
           You should follow me on Twitter
         </a>
       </p>
