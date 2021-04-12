@@ -40,6 +40,10 @@ const Bio = () => {
         justifyContent: 'center',
         textAlign: 'center',
         margin: '1rem auto',
+        maxWidth: '665px',
+        background: 'rgba(0, 0, 0, 0) linear-gradient(rgb(47, 184, 255) 0%, rgb(158, 236, 217) 100%) repeat scroll 0% 0%',
+        borderRadius: '.5rem',
+        padding: '.5rem',
       }}
     >
       <Image
