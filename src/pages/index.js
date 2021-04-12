@@ -10,7 +10,8 @@ const flexStyle = {
   display: "flex",
   flexWrap: "wrap",
   padding: "1rem",
-  justifyContent: "space-evenly",
+  margin: "3rem",
+  justifyContent: "center",
 };
 
 const dateStyle = {
