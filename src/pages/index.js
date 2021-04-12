@@ -32,7 +32,7 @@ const postStyle = {
   borderRadius: "1.5rem",
   color: "black",
   boxShadow: "1px 1px 6px #000",
-  background: "white linear-gradient(rgb(255, 82, 82) 0%, rgb(255, 114, 182) 100%) repeat scroll 0% 0%",
+  background: "rgba(0, 0, 0, 0) linear-gradient(218.31deg, rgb(0, 122, 255) 0%, rgb(80, 164, 255) 100%) repeat scroll 0% 0%",
 };
 
 class BlogIndex extends React.Component {
@@ -56,7 +56,7 @@ class BlogIndex extends React.Component {
                   marginBottom: rhythm(1 / 4),
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none`, color: 'black' }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
