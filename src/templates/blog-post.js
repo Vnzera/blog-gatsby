@@ -16,7 +16,7 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <div style={{
           margin: '1rem auto',
-          padding: '3rem',
+          padding: '.5rem',
           maxWidth: '785px',
         }}>
         <SEO
