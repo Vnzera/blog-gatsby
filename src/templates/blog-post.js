@@ -21,7 +21,9 @@ class BlogPostTemplate extends React.Component {
         <h1
           style={{
             marginTop: rhythm(1),
-            marginBottom: 0,
+            background: "rgba(0, 0, 0, 0) linear-gradient(218.31deg, rgb(0, 122, 255) 0%, rgb(80, 164, 255) 100%) repeat scroll 0% 0%",
+            borderRadius: '.5rem',
+            padding: '.5rem',
           }}
         >
           {post.frontmatter.title}
