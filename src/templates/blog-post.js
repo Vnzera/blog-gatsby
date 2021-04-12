@@ -14,6 +14,11 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
+        <div style={{
+          margin: '1rem auto',
+          padding: '3rem',
+          maxWidth: '785px',
+        }}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -69,6 +74,7 @@ class BlogPostTemplate extends React.Component {
             )}
           </li>
         </ul>
+        </div>
       </Layout>
     )
   }
