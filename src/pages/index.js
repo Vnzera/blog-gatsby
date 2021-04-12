@@ -45,7 +45,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
-        <div style={flexStyle}>
+        <section style={flexStyle}>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -71,7 +71,7 @@ class BlogIndex extends React.Component {
             
           )
         })}
-        </div>
+        </section>
       </Layout>
     )
   }
