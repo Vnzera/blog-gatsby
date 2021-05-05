@@ -60,11 +60,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. A blogger, YouTuber and front end web developer
+        Written by <strong>{author}</strong>. A blogger and front end web developer
         {` `}
-        <a target="_blank"  rel="noreferrer" href={`https://twitter.com/${social.twitter}`}>
-          You should follow me on Twitter
-        </a>
       </p>
     </div>
   )
