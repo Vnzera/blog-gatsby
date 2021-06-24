@@ -60,7 +60,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>. A blogger and front end web developer
+        Written by <strong>{author}</strong>. Just putting my random thoughts out there
         {` `}
       </p>
     </div>
