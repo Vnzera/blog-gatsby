@@ -19,16 +19,16 @@ const dateStyle = {
   width: "auto",
   radius: "1rem",
   borderRadius: ".5rem",
-  width: "10rem",
   textAlign: "center",
   margin: "1rem"
 };
 
 const postStyle = {
+  textAlign: 'center',
   width: "20rem",
   height: "20rem",
   backgroundColor: "#060606a8",
-  padding: "1rem",
+  padding: "1.5rem",
   margin: "1rem",
   borderRadius: "1.5rem",
   color: "black",
@@ -63,6 +63,7 @@ class BlogIndex extends React.Component {
               </h3>
               <p style={dateStyle}>{node.frontmatter.date}</p>
               <p
+                
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}
